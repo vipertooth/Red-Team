@@ -1,4 +1,4 @@
-# Red-Team Training for Kryptos Operators   
+# Pipeline for Kryptos Operators   
 Original files can be found at https://github.com/vipertooth/Notes   
 
 ## Table of Contents   
