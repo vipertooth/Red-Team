@@ -24,4 +24,4 @@ Kryptos Gear list
 
 ## <a name="training">Training<a/>
 * [Redirector](https://github.com/vipertooth/Notes/blob/master/digitalocean/redirector.md)   
-* [Lab 1](https://github.com/vipertooth/Notes/blob/master/Lab1/Readme.md) - Remote Opertations 1
+* [Lab 1](https://github.com/vipertooth/Notes/blob/master/Lab1/Readme.md) - Remote Operations 1
